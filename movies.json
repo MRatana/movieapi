@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "title": "Movie 1",
     "year": 2020,
     "director": "Director 1",
@@ -7,6 +8,7 @@
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/Kung_Fu_Panda.webp"
   },
   {
+    "id": "2",
     "title": "Movie 2",
     "year": 2018,
     "director": "Director 2",
@@ -14,6 +16,7 @@
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/avatar.jpg"
   },
   {
+    "id": "3",
     "title": "Movie 3",
     "year": 2019,
     "director": "Director 3",
@@ -21,6 +24,7 @@
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/img.png"
   },
   {
+    "id": "4",
     "title": "Movie 4",
     "year": 2017,
     "director": "Director 4",
