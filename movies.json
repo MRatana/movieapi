@@ -1,34 +1,30 @@
 [
   {
     "id": "1",
-    "title": "Movie 1",
-    "year": 2020,
-    "director": "Director 1",
-    "genre": "Action",
+    "title": "Kung Fu Panda",
+    "description": "Kung Fu Panda is an American media franchise that originally started in 2008 with the release of the animated feature film of the same name, produced by DreamWorks Animation.",
+    "category": "Action",
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/Kung_Fu_Panda.webp"
   },
   {
     "id": "2",
-    "title": "Movie 2",
-    "year": 2018,
-    "director": "Director 2",
-    "genre": "Drama",
+    "title": "Avatar",
+    "description": "Avatar (marketed as James Cameron's Avatar) is a 2009 epic science fiction film directed, written, co-produced, and co-edited by James Cameron and starring Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez,[6] and Sigourney Weaver.",
+    "category": "Drama",
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/avatar.jpg"
   },
   {
     "id": "3",
     "title": "Movie 3",
-    "year": 2019,
-    "director": "Director 3",
-    "genre": "Comedy",
+    "description": "Avatar (marketed as James Cameron's Avatar) is a 2009 epic science fiction film directed, written, co-produced, and co-edited by James Cameron and starring Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez,[6] and Sigourney Weaver.",
+    "category": "Comedy",
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/img.png"
   },
   {
     "id": "4",
     "title": "Movie 4",
-    "year": 2017,
-    "director": "Director 4",
-    "genre": "Action",
+    "description": "Kung Fu Panda is an American media franchise that originally started in 2008 with the release of the animated feature film of the same name, produced by DreamWorks Animation.",
+    "category": "Action",
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/movie1.jpg"
   }
 ]
