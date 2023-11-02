@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Movie 1",
+    "year": 2020,
+    "director": "Director 1",
+    "genre": "Action"
+  },
+  {
+    "title": "Movie 2",
+    "year": 2018,
+    "director": "Director 2",
+    "genre": "Drama"
+  },
+  {
+    "title": "Movie 3",
+    "year": 2019,
+    "director": "Director 3",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Movie 4",
+    "year": 2017,
+    "director": "Director 4",
+    "genre": "Love"
+  }
+]
