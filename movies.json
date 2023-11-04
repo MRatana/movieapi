@@ -4,7 +4,7 @@
     "title": "Kung Fu Panda",
     "description": "Kung Fu Panda is an American media franchise that originally started in 2008 with the release of the animated feature film of the same name, produced by DreamWorks Animation.",
     "category": "Action",
-    "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/Kung_Fu_Panda.webp",
+    "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/images/Kung_Fu_Panda.webp",
     "video" : "https://www.shutterstock.com/shutterstock/videos/6890149/preview/stock-footage--beijing-china-june-th-close-up-of-the-funny-gesture-of-the-olympic-panda-in-sleeping.webm",
     "rating":7.5
   },
@@ -13,7 +13,7 @@
     "title": "Avatar",
     "description": "Avatar (marketed as James Cameron's Avatar) is a 2009 epic science fiction film directed, written, co-produced, and co-edited by James Cameron and starring Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez,[6] and Sigourney Weaver.",
     "category": "Drama",
-    "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/avatar.jpg",
+    "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/images/avatar.jpg",
     "video" : "https://www.shutterstock.com/shutterstock/videos/1089066101/preview/stock-footage-concept-animation-shows-the-process-of-turning-on-the-cpu-in-the-motherboard-digital-pulses-and.webm",
     "rating":8.5
   },
@@ -22,7 +22,7 @@
     "title": "Movie 3",
     "description": "Avatar (marketed as James Cameron's Avatar) is a 2009 epic science fiction film directed, written, co-produced, and co-edited by James Cameron and starring Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez,[6] and Sigourney Weaver.",
     "category": "Comedy",
-    "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/img.png",
+    "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/images/img.png",
     "video" : "https://www.shutterstock.com/shutterstock/videos/19480024/preview/stock-footage-cozy-and-warm-by-the-fire-in-the-dead-of-winter-burning-large-wooden-log-fire-pit-over-red-coals.webm",
     "rating":8.0
   },
@@ -31,7 +31,7 @@
     "title": "Movie 4",
     "description": "Kung Fu Panda is an American media franchise that originally started in 2008 with the release of the animated feature film of the same name, produced by DreamWorks Animation.",
     "category": "Action",
-    "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/movie1.jpg",
+    "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/images/movie1.jpg",
     "video" : "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFF5MIfTLeCTzW715I1Z7u-4QzgezDuqy0JA",
     "rating":7.9
   }
