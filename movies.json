@@ -5,7 +5,7 @@
     "description": "Kung Fu Panda is an American media franchise that originally started in 2008 with the release of the animated feature film of the same name, produced by DreamWorks Animation.",
     "category": "Action",
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/images/Kung_Fu_Panda.webp",
-    "video" : "https://www.shutterstock.com/shutterstock/videos/6890149/preview/stock-footage--beijing-china-june-th-close-up-of-the-funny-gesture-of-the-olympic-panda-in-sleeping.webm",
+    "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "rating":7.5
   },
   {
