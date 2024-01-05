@@ -5,8 +5,8 @@
     "description": "Kung Fu Panda is an American media franchise that originally started in 2008 with the release of the animated feature film of the same name, produced by DreamWorks Animation.",
     "category": "Action",
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/images/Kung_Fu_Panda.webp",
-    "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "rating":7.5
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "rating": 7.5
   },
   {
     "id": "2",
@@ -14,8 +14,8 @@
     "description": "Avatar (marketed as James Cameron's Avatar) is a 2009 epic science fiction film directed, written, co-produced, and co-edited by James Cameron and starring Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez,[6] and Sigourney Weaver.",
     "category": "Drama",
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/images/avatar.jpg",
-    "video" : "https://www.shutterstock.com/shutterstock/videos/1089066101/preview/stock-footage-concept-animation-shows-the-process-of-turning-on-the-cpu-in-the-motherboard-digital-pulses-and.webm",
-    "rating":8.5
+    "video": "https://www.shutterstock.com/shutterstock/videos/1089066101/preview/stock-footage-concept-animation-shows-the-process-of-turning-on-the-cpu-in-the-motherboard-digital-pulses-and.webm",
+    "rating": 8.5
   },
   {
     "id": "3",
@@ -23,8 +23,8 @@
     "description": "Avatar (marketed as James Cameron's Avatar) is a 2009 epic science fiction film directed, written, co-produced, and co-edited by James Cameron and starring Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez,[6] and Sigourney Weaver.",
     "category": "Comedy",
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/images/img.png",
-    "video" : "https://www.shutterstock.com/shutterstock/videos/19480024/preview/stock-footage-cozy-and-warm-by-the-fire-in-the-dead-of-winter-burning-large-wooden-log-fire-pit-over-red-coals.webm",
-    "rating":8.0
+    "video": "https://www.shutterstock.com/shutterstock/videos/19480024/preview/stock-footage-cozy-and-warm-by-the-fire-in-the-dead-of-winter-burning-large-wooden-log-fire-pit-over-red-coals.webm",
+    "rating": 8.0
   },
   {
     "id": "4",
@@ -32,7 +32,79 @@
     "description": "Kung Fu Panda is an American media franchise that originally started in 2008 with the release of the animated feature film of the same name, produced by DreamWorks Animation.",
     "category": "Action",
     "img": "https://raw.githubusercontent.com/MRatana/movieapi/main/images/movie1.jpg",
-    "video" : "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFF5MIfTLeCTzW715I1Z7u-4QzgezDuqy0JA",
-    "rating":7.9
+    "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFF5MIfTLeCTzW715I1Z7u-4QzgezDuqy0JA",
+    "rating": 7.9
+  },
+  {
+    "id": "5",
+    "title": "Big Buck Bunny",
+    "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+    "category": "Action",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Big_Buck_Bunny_thumbnail_vlc.png/1200px-Big_Buck_Bunny_thumbnail_vlc.png",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "rating": 7.9
+  },
+  {
+    "id": "6",
+    "title": "The first Blender Open Movie from 2006",
+    "description": "Song : Raja Raja Kareja Mein Samaja\nAlbum : Raja Kareja Mein Samaja\nArtist : Radhe Shyam Rasia\nSinger : Radhe Shyam Rasia\nMusic Director : Sohan Lal, Dinesh Kumar\nLyricist : Vinay Bihari, Shailesh Sagar, Parmeshwar Premi\nMusic Label : T-Series",
+    "category": "Action",
+    "img": "https://i.ytimg.com/vi_webp/gWw23EYM9VM/maxresdefault.webp",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "rating": 7.9
+  },
+  {
+    "id": "7",
+    "title": "For Bigger Blazes",
+    "description": "Song : Raja Raja Kareja Mein Samaja\nAlbum : Raja Kareja Mein Samaja\nArtist : Radhe Shyam Rasia\nSinger : Radhe Shyam Rasia\nMusic Director : Sohan Lal, Dinesh Kumar\nLyricist : Vinay Bihari, Shailesh Sagar, Parmeshwar Premi\nMusic Label : T-Series",
+    "category": "Action",
+    "img": "https://i.ytimg.com/vi/Dr9C2oswZfA/maxresdefault.jpg",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "rating": 7.9
+  },
+  {
+    "id": "8",
+    "title": "For Bigger Escape",
+    "description": " Introducing Chromecast. The easiest way to enjoy online video and music on your TV-for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+    "category": "Action",
+    "img": "https://img.jakpost.net/c/2019/09/03/2019_09_03_78912_1567484272._large.jpg",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "rating": 7.9
+  },
+  {
+    "id": "9",
+    "title": "Big Buck Bunny",
+    "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+    "category": "Action",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Big_Buck_Bunny_thumbnail_vlc.png/1200px-Big_Buck_Bunny_thumbnail_vlc.png",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "rating": 7.9
+  },
+  {
+    "id": "10",
+    "title": "For Bigger Blazes",
+    "description": "Song : Raja Raja Kareja Mein Samaja\nAlbum : Raja Kareja Mein Samaja\nArtist : Radhe Shyam Rasia\nSinger : Radhe Shyam Rasia\nMusic Director : Sohan Lal, Dinesh Kumar\nLyricist : Vinay Bihari, Shailesh Sagar, Parmeshwar Premi\nMusic Label : T-Series",
+    "category": "Action",
+    "img": "https://i.ytimg.com/vi/Dr9C2oswZfA/maxresdefault.jpg",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "rating": 7.9
+  },
+  {
+    "id": "11",
+    "title": "For Bigger Escape",
+    "description": " Introducing Chromecast. The easiest way to enjoy online video and music on your TV-for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+    "category": "Action",
+    "img": "https://img.jakpost.net/c/2019/09/03/2019_09_03_78912_1567484272._large.jpg",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "rating": 7.9
+  },
+  {
+    "id": "12",
+    "title": "The first Blender Open Movie from 2006",
+    "description": "Song : Raja Raja Kareja Mein Samaja\nAlbum : Raja Kareja Mein Samaja\nArtist : Radhe Shyam Rasia\nSinger : Radhe Shyam Rasia\nMusic Director : Sohan Lal, Dinesh Kumar\nLyricist : Vinay Bihari, Shailesh Sagar, Parmeshwar Premi\nMusic Label : T-Series",
+    "category": "Action",
+    "img": "https://i.ytimg.com/vi_webp/gWw23EYM9VM/maxresdefault.webp",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "rating": 7.9
   }
 ]
